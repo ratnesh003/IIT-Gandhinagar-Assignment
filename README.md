@@ -4,6 +4,16 @@ contains two types of data:
 1. **Featurized data**: Pre-extracted features representing activities.
 2. **Raw inertial sensor data**: Accelerometer and gyroscope readings from the sensors.
 
+## Task's Jupyter Notebooks for Evaluation
+Download the Data set add to google drive and add the folder path till __'MyDrive/human+activity+recognition+using+smartphones/UCI_HAR_Dataset/UCI_HAR_Dataset/'__ to variable common_path and run the to python script
+
+| Task | Links |
+|------|-------|
+| 1 | [Link](https://colab.research.google.com/drive/1ZFf_a20RrCvvn9_7IlTExQstGtGZwP5b?usp=sharing)|
+| 2 | [Link](https://colab.research.google.com/drive/18O118e-6vtAHOdsYob5_KOLgtyON0tzy?usp=sharing)|
+| 3 | Incomplete|
+| 4 | [Link](https://colab.research.google.com/drive/1sCNxtEbSU7z_awEgoFz4JkAlQi5URV2Y?usp=sharing)|
+
 ### Activity Labels
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities as follows
 
